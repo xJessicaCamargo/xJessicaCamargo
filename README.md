@@ -2,9 +2,10 @@
 
 <div align="center">
   <a href="https://github.com/xJessicaCamargo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xJessicaCamargo&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xJessicaCamargo&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xJessicaCamargo&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+ 
 <div style="display: inline_block"><br>
    <img align="left" alt="JESSY PERFIL" height="150" style="border-radius:50px;" 
   src="https://instagram.fbhz2-1.fna.fbcdn.net/v/t51.2885-19/308354189_822515018751049_2353100337429495350_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fbhz2-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=n_1i4O8U-6EAX-2RkzY&tn=CzD5dXDfmLH2Q6IO&edm=ACWDqb8BAAAA&ccb=7-5&oh=00_AT9iOy0kSoK1RPnWXbgQDEStUywSKAZRdMZay7KlP6Wp7g&oe=633A23D4&_nc_sid=1527a3">
