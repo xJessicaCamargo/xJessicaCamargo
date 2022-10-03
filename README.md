@@ -8,10 +8,11 @@
 <div style="display: inline_block"><br>
    <img align="left" alt="JESSY PERFIL" height="150" style="border-radius:50px;" 
   src="https://instagram.fbhz2-1.fna.fbcdn.net/v/t51.2885-19/308354189_822515018751049_2353100337429495350_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fbhz2-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=n_1i4O8U-6EAX-2RkzY&tn=CzD5dXDfmLH2Q6IO&edm=ACWDqb8BAAAA&ccb=7-5&oh=00_AT9iOy0kSoK1RPnWXbgQDEStUywSKAZRdMZay7KlP6Wp7g&oe=633A23D4&_nc_sid=1527a3">
-  <img align="center" alt="jupyter-original-wordmark-JESS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+  
   <img align="center" alt="python-original-JESS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="html5-plain-wordmark-JESS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="css3-plain-wordmark-JESS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+  <img align="center" alt="jupyter-original-wordmark-JESS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="javascript-original-JESS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
   
