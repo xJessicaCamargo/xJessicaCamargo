@@ -12,8 +12,6 @@
   <img align="center" alt="css3-plain-wordmark-JESS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
   <img align="center" alt="jupyter-original-wordmark-JESS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="javascript-original-JESS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="java-coffee-cup-logo" height="30" width="40" src="[https://icons8.com](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)">
-  
 </div>
   
   ##
