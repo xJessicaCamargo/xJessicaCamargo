@@ -12,7 +12,7 @@
   <img align="center" alt="css3-plain-wordmark-JESS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
   <img align="center" alt="jupyter-original-wordmark-JESS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="javascript-original-JESS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="java-coffee-cup-logo" height="30" width="40" src="https://icons8.com/icons/set/java-developers">
+  <img align="center" alt="icons8-java" height="30" width="40" src="<a target="_blank" href="https://icons8.com/icon/ETDhNONw82Nc/java">Java</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>">
 </div>
   
   ##
